@@ -47,7 +47,7 @@ Bonus:
 
 ### Links
 
-- Live Site URL: [link](https://kanban-task-management-react-tailwind.vercel.app/)
+- Live Site URL: [link](https://mercor-kanban-task.netlify.app/)
 
 ### Built with
 
@@ -58,8 +58,8 @@ Bonus:
 
 ### Useful resources
 
-- [Drag and Drop quick tutorial](https://www.youtube.com/watch?v=u65Y-vqYNAk)
+- [Drag and Drop quick tutorial]()
 
 ## Author
 
-- LinkedIn - [Hesam DearBoy](https://www.linkedin.com/in/hesam-azizpour-23259b265/)
+- LinkedIn - [Rakesh Swain](https://www.linkedin.com/in/rakesh-kumar-swain-8259a7164/)
